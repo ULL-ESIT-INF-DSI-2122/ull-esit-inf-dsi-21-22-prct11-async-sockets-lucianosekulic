@@ -1,0 +1,12 @@
+{
+    "entryPoints": [
+      "./src/claseCliente.ts",
+      "./src/cliente.ts",
+      "./src/notas.ts",
+      "./src/notasApp.ts",
+      "./src/requestEventEmitterServer.ts",
+      "./src/servidor.ts",
+      "./src/types.ts"
+    ],
+    "out": "./docs"
+  }
